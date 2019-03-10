@@ -1,0 +1,5 @@
+2019-03-11:
+* Unload R9: prevents boot
+* Use D0 (J1.6) for 1-wire, D8 can not have pull-ups.
+* Chinese 1-wire sensors do not work well with 5V power and 3.3V io. Rework PCB to provide 3.3V to J1.3.
+ 

@@ -1,0 +1,13 @@
+fp-info-cache
+fp-lib-table
+sym-lib-table
+*.kicad_prl
+*.gbr
+*.svg
+*.ps
+*.drl
+*.bak
+*.net
+*.xml
+*-bak
+*-backups
